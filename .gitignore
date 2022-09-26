@@ -1,0 +1,18 @@
+#Rendered project
+
+BingoProject v0.5/
+BingoProject v1.202412/
+
+#Other folders
+Logs/
+obj/
+Library/
+
+#Files
+
+
+#Types
+
+*.meta
+*.log
+*.7z
